@@ -5,9 +5,11 @@ Live Demo - https://aab007209.github.io/PokeMatch/
 
 ### Screenshots of the Game:
 
-[Screen 1](/Screen-1.png)
+![Screen 1](/Screen-1.png)
 
-[Screen 2](/Screen-2.png)
+<br />
+
+![Screen 2](/Screen-2.png)
 
 <br />
 
